@@ -8,7 +8,7 @@ Trepp serves its clients with products and services to support trading, research
 
 ## software engineering @ Trepp
 
-The engineering team at Trepp has various Groups that work on our Data Platform, analytics & engines, and web products. While you will have experience working with a strong Product team and subject matter experts, we focus on areas including:
+The engineering team at Trepp is composed of Groups that work on our Data Platform, analytics & engines, and web products. Our developers experience working with a strong Product team and subject matter experts. We focus on technology areas including:
 
 - Data engineering
 - Data lake & Platform
