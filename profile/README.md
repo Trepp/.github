@@ -29,7 +29,7 @@ The engineering team at Trepp is composed of Groups that work on our Data Platfo
     - Docker / AWS Lambda
 </details>
 
-We develop systems designed for Cloud architectures, automation 🚀, and leveraging our multi-zone Data Lake. Free access to Pluralsight 📚 to explore and learn technologies you enjoy.
+We develop systems designed for Cloud architectures, automation 🚀, and leveraging our multi-zone Data Lake. 
 
 ## Join Us
 
